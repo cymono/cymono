@@ -132,7 +132,7 @@ Con este contexto completo, Claude Cowork puede responder consultas como: *"Teng
 
 ## Objetivos nutricionales base
 
-- ✅ Mínimo 20–25 g de proteína por comida
+- ✅ Al menos 1 porción de proteínas
 - ✅ Alta fibra
 - ✅ Alimentos reales, sin ultraprocesados
 - ✅ Máximo 15 minutos de preparación para la cena
