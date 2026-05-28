@@ -68,7 +68,7 @@ Cada receta incluye: tiempo de preparación, ingredientes, pasos y estimación p
 
 Una de las ventajas del sistema es que el inventario puede incluir **todo lo que está disponible en la cocina**: ingredientes, especias, condimentos, utensilios e implementos. Esto permite que Claude Cowork genere recetas completamente ajustadas a la realidad del usuario — no solo a lo que tiene para comer, sino también a **cómo puede cocinarlo**.
 
-### Ejemplo real — Inventario del Dr. Sabattín (Redgesam)
+### Ejemplo real — Mi inventario con mis alimentos. 
 
 #### 🥩 Proteínas y legumbres
 | Producto | Estado |
