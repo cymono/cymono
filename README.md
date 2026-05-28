@@ -117,7 +117,8 @@ Con este contexto completo, Claude Cowork puede responder consultas como: *"Teng
 **Se necesita:**
 - [Obsidian](https://obsidian.md) (gratuito) — para visualizar y navegar los archivos
 - [Claude Cowork](https://claude.ai) — con acceso a la carpeta del proyecto
-- Esta estructura de archivos, adaptada al inventario propio
+- Esta estructura de archivos, adaptada al inventario propio // Tip: Tomale un screenshot a este repositorio y pégalo en tu LLM preferido. 
+- Prompt: Screenshot + "Ayudame a crear este sistema, entrevistame sobre mi inventario de alimentos". 
 
 **El flujo:**
 
@@ -144,7 +145,7 @@ Con este contexto completo, Claude Cowork puede responder consultas como: *"Teng
 > **Consulta:** *"Llegué cansado. Tengo arroz cocido, huevos y brócoli congelado. Máximo 12 minutos."*
 >
 > **Wikitchen responde:**
-> **Arroz salteado con huevo y brócoli** · 12 min · ~22 g proteína · Alta fibra
+> **Arroz salteado con huevo y brócoli** · 12 min · Alta proteína · Alta fibra
 > 1. Calentar el arroz (2 min en microondas o sartén)
 > 2. Saltear brócoli congelado con aceite y ajo en polvo (4 min)
 > 3. Agregar 2 huevos batidos, revolver hasta cuajar (3 min)
